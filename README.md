@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hello, GitHub
 
-<!--
-**sonulangaya/sonulangaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Sonu 👋🏾 
 
-Here are some ideas to get you started:
+I am a PhD Scholar in the Field of Genetics and Plant Breeding. Highly influenced by the Coding world, utilizing the power of Codes in Plant Breeding.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+Lets Connect on <a href="https://www.linkedin.com/in/sonulangaya/">LinkedIn</a> 💼
+
+
 -->
