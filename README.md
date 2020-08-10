@@ -18,3 +18,5 @@ I am a PhD Scholar :scientist: in the Field of Genetics and Plant Breeding :ear_
   - [Mail me](mailto:sonulangaya@yahoo.in)
 
 
+
+  <a href="https://facebook.com/sonulangaya"><img alt="Facebook" src="https://img.shields.io/badge/?style=for-the-badge&logo=appveyor" /></a>
