@@ -9,8 +9,8 @@ I am a PhD Scholar :scientist: in the Field of Genetics and Plant Breeding :ear_
 ## **Lets Connect** :handshake:
 
 <p align="center">
-  <a href="https://linkedin.com/in/sonulangaya"><img alt="LinkedIn" src="https://img.shields.io/badge/🤝-LinkedIn-blue" /></a>
-  <a href="https://facebook.com/sonulangaya"><img alt="Facebook" src="https://img.shields.io/badge/💬-Facebook-blue" /></a>
+  <a href="https://linkedin.com/in/sonulangaya"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Black?style=for-the-badge&logo=linkedin"" /></a>
+  <a href="https://facebook.com/sonulangaya"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=sonulangaya"><img src="https://img.shields.io/twitter/follow/sonulangaya?style=social&logo=twitter" alt="Connect on Twitter"></a>   
 </p>
 
@@ -19,4 +19,3 @@ I am a PhD Scholar :scientist: in the Field of Genetics and Plant Breeding :ear_
 
 
 
-  <a href="https://facebook.com/sonulangaya"><img alt="Facebook" src="https://img.shields.io/badge/?style=for-the-badge&logo=appveyor" /></a>
