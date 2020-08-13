@@ -6,6 +6,7 @@
 
 
 I am a PhD Scholar :scientist: in the Field of Genetics and Plant Breeding :ear_of_rice:.
+
 Utilizing the power of Codes in Plant Breeding :computer::pencil:.
 
 ## **Lets Connect** :handshake:
