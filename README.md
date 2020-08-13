@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 <img align="left" width="150" height="150" src="https://github.com/sonulangaya/sonulangaya/blob/master/Breeder.png?raw=true"></a>
-<br />
+<br /><br />
 I am a PhD Scholar :scientist: in the Field of Genetics and Plant Breeding :ear_of_rice:.
 
 Utilizing the power of Codes in Plant Breeding :computer::pencil:.
