@@ -1,9 +1,9 @@
-<h1 align="left">Hi GitHub👋, I'm Sonu :earth_asia:</h1>
+<h1 align="left">Hi GitHub 👋, I'm Sonu :earth_asia:</h1>
 
-<h3 align="leftr">Plant Breeder:scientist::ear_of_rice: </h3>
+<h3 align="leftr">Plant Breeder👨🏻‍:microscope::ear_of_rice: </h3>
 <br />
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h2> &nbsp;About Me 👨🏻‍:ear_of_rice: </h2>
 
 <img align="left" width="150" height="150" src="https://github.com/sonulangaya/sonulangaya/blob/master/Breeder.png?raw=true"></a>
 <br /><br />
