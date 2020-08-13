@@ -1,13 +1,13 @@
 <h1 align="left">Hi GitHub 👋, I'm Sonu :earth_asia:</h1>
 
-<h3 align="leftr">Plant Breeder👨🏻‍:microscope::ear_of_rice: </h3>
+<h3 align="leftr">Plant Breeder👨🏻‍🔬🌾 </h3>
 <br />
 
 <h2> &nbsp;About Me 👨🏻‍:ear_of_rice: </h2>
 
 <img align="left" width="150" height="150" src="https://github.com/sonulangaya/sonulangaya/blob/master/Breeder.png?raw=true"></a>
 <br /><br />
-I am a PhD Scholar :scientist: in the Field of Genetics and Plant Breeding :ear_of_rice:.
+I am a PhD Scholar 👨🏻‍🔬🌾 in the Field of Genetics and Plant Breeding 🌾.
 
 Utilizing the power of Codes in Plant Breeding :computer::pencil:.
 
