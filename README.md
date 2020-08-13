@@ -15,8 +15,7 @@ Utilizing the power of Codes in Plant Breeding :computer::pencil:.
 
 ---
 ## **Lets Connect** :handshake:
-
-
+<br />
 <p align="center">
 <a href="https://www.sonulangaya.github.io"><img src="https://img.shields.io/badge/-My%20Prortfolio-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/sonulangaya"><img src="https://img.shields.io/badge/-Sonu%20Langaya-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
