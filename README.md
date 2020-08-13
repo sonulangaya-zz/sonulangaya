@@ -13,7 +13,8 @@ I am a PhD Scholar :scientist: in the Field of Genetics and Plant Breeding :ear_
   <a href="https://facebook.com/sonulangaya"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook" /></a>
   <a href="https://twitter.com/intent/follow?screen_name=sonulangaya"><img src="https://img.shields.io/twitter/follow/sonulangaya?style=social&logo=twitter" alt="Connect on Twitter"></a>   
 </p>
-  - [Mail me](mailto:sonulangaya@yahoo.in)
+    
+[Mail me](mailto:sonulangaya@yahoo.in)
 
 
 
